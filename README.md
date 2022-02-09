@@ -1,7 +1,7 @@
 ### Hello there 
 
 - 👋 Hi, I’m @wexnox [Linkedin] 
-- 👀 I’m interested in Web Development [Website]
+- 👀 I’m interested in Web Development [Website] [Portfolio]
 - 🌱 I’m currently learning Livewire / Tailwind / Alpine, and Vue
 
 ---
@@ -37,5 +37,6 @@
 
 
 [Website]: http://www.wexox.me
+[Portfolio]: http://portfolio.wexox.no
 [Linkedin]: https://linkedin.com/in/lasse-rønningen-2382b514b
 
