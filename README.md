@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @wexnox [Linkedin] 
 - 👀 I’m interested in Web Development [Website] | [Portfolio]
-- 🌱 I’m currently learning Livewire / Tailwind / Alpine, and Vue
+- 🌱 I’m currently learning Laravel / Livewire / Tailwind / Alpine (and Vue)
 
 ---
 
